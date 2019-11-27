@@ -1,0 +1,125 @@
+*{
+	margin:0;
+	padding:0 auto;
+}
+.content{
+	margin-left:80px;
+	width:1200px;
+	background-color:white;
+	margin-top: -34px;
+}
+.menu{
+	width:1200px;
+	height:100px;
+	background-color:gay;
+	margin-left:80px;
+	margin-top:100px;
+}
+
+.left_content{
+	width:800px;
+	height:1300px;
+	background-color:ornge;
+	margin-left:10px;
+	
+	
+}
+img {
+    width: 40px;
+    vertical-align: middle;
+    border-style: none;
+}
+
+ /* ==========blogshort end======= */
+.post1 img{
+	 width:140px;
+	 height:140px;
+	 float:left;
+	 margin-top: 20px;
+	 margin-left:10px;
+	 margin-right:10px;
+	 border:1px solid gray;
+	    
+ }
+.h1, h1,h3 {
+	margin-top:20px;
+ margin-right: 200px;
+ float:right;
+
+ }
+.post1{
+width:800px;
+height:180px;
+border-style: solid;
+border-width: 1.8px;
+position:relative;
+
+
+
+}
+.post1 p{
+	
+	color:black;
+	
+}
+.post1 img:hover{
+	transition:2s;
+	transform:scale(1.1);
+}
+/* ==========Left End====== */
+.right_content{
+	width: 325px;
+    height: 800px;
+    background-color:ornge;
+    float: right;
+    margin-top: -1300px;
+    margin-right: 33px;	
+}
+.populer_download{
+	width:325px;
+	height:50px;
+	background-color:orange;
+	
+}
+.populer_download h2{
+	text-align:center;
+	font-family:Aria;
+}
+.child1{
+	
+}
+.child1:hover{
+	transition:.5s;
+	transform:translate(20px);
+}
+.child1 img{
+	width:25px;
+	height:25px;
+	
+}
+.badge-primary {
+    color: #fff;
+    background-color:#28A745;
+}
+
+.follow{
+	width:325px;
+	height:50px;
+	background-color:#BFD005;
+	border-style: groove;
+	
+}
+.follow h2{
+	text-align:center;
+}
+/* ======content End======= */
+.footer{
+	width:1200px;
+	height:100px;
+	margin-left:80px;
+	background-color:#1A78C2;
+}
+a{
+	color:black important;
+}
+
